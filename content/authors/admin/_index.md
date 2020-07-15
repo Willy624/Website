@@ -44,15 +44,15 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'willy624719@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: "willy624719@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/Willy624
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "willy624719@gmail.com"
