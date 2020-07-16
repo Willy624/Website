@@ -51,7 +51,8 @@ social:
   link: https://github.com/Willy624
 - icon: linkedin
   icon_pack: gab
-  link: https://www.linkedin.com/in/yu-shiou-willy-lin-248aa912a/
+  link: https://www.linkedin.com/in/yu-shiou-willy-lin-248aa912a
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
