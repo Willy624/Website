@@ -108,7 +108,7 @@ phone = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
  contact_links = [
-  {icon = "envelope", icon_pack = "far", name = "willy624719@gmail.com", link = "willy624719@gmail.com"},
+  {icon = "envelope", icon_pack = "far", name = "b03703021@ntu.edu.tw", link = "b03703021@ntu.edu.tw"},
   {icon = "phone", icon_pack = "fas", name = "+886 (0) 975650526"}
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
