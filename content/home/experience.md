@@ -34,10 +34,10 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Assistant"
   company = "National Taiwan University"
-  company_url = ""
+  company_url = "https://www.ntu.edu.tw/"
   location = "Taipei, Taiwan"
   date_start = "2017-09-01"
-  date_end = "2019-01-30"
+  date_end = "2019-01-31"
   description = """
   Responsibilities include:
   
