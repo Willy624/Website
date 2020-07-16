@@ -21,7 +21,8 @@ organizations:
 bio: My research interests include Microeconomic Theory, Financial Economics and Public Economics.
 
 interests:
-- Mechanism Design and Game Theory
+- Mechanism Design 
+- Game Theory
 - Taxation Theory
 - Information Economics
 
@@ -44,10 +45,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "willy624719@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link: willy624719@gmail.com  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/Willy624
+- icon: linkedin
+  icon_pack: gab
+  link: https://www.linkedin.com/in/yu-shiou-willy-lin-248aa912a/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
