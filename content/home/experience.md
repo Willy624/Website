@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Chicago Booth"
   company_url = "https://www.chicagobooth.edu/"
   location = "Chicago, Illinois"
-  date_start = "2020-08-01"
+  date_start = "Aug 2020"
   date_end = ""
   description = """
   Responsibilities include:
