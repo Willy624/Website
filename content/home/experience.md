@@ -36,8 +36,8 @@ date_format = "Jan 2006"
   company = "National Taiwan University"
   company_url = "https://www.ntu.edu.tw/"
   location = "Taipei, Taiwan"
-  date_start = "2017-09-01"
-  date_end = "2019-01-31"
+  date_start = "Sep 2017"
+  date_end = "Jan 2019"
   description = """
   Responsibilities include:
   
