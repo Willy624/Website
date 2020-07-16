@@ -38,6 +38,6 @@ date_format = "Jan 2006"
   location = "Taipei, Taiwan"
   date_start = "Sep 2017"
   date_end = "Jan 2019"
-  description = """"Solving game theoretical models related to finance and marketing"
+  description = "Solving game theoretical models related to finance and marketing"
 
 +++
