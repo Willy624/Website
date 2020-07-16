@@ -52,7 +52,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: "static/files/cv.pdf"
+   link: {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "willy624719@gmail.com"
