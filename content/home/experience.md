@@ -40,4 +40,5 @@ date_format = "Jan 2006"
   date_end = "Jan 2019"
   description = "Solving game theoretical models related to finance and marketing"
 
+  """
 +++
