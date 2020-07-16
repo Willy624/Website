@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: willy624719@gmail.com  # For a direct email link, use "mailto:test@example.org".
+  link: b03703021@ntu.edu.tw  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/Willy624
@@ -60,7 +60,7 @@ social:
 #  link: "static/files/cv.pdf" 
   
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "willy624719@gmail.com"
+email: "b03703021@ntu.edu.tw"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
