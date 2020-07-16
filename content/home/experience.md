@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Taipei, Taiwan"
   date_start = "2017-09-01"
-  date_end = "2019-01-31"
+  date_end = "2019-01-30"
   description = """
   Responsibilities include:
   
