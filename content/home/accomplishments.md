@@ -19,33 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "National Taiwan University"
+  organization_url = ""
+  title = "Presidential Award"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2018-06-30"
   date_end = ""
-  description = ""
-
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Top 5% of the students, calculating the semester GPA"
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Academia Sinica"
+  organization_url = "https://www.math.sinica.edu.tw/www/"
+  title = "Summer School of Mathematical Finance"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2017-08-01"
+  date_end = "2017-08-31"
+  description = "Completed a project using FFT algorithm to solve a Black-Scholes jump diffusion model."
+
+[[item]]
+  organization = "National Taiwan University"
+  organization_url = ""
+  title = "Presidential Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-06-30"
+  date_end = ""
+  description = "Top 5% of the students, calculating the semester GPA"
 
 +++
