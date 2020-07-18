@@ -23,20 +23,20 @@ bio: My research interests include Microeconomic Theory, Financial Economics and
 interests:
 - Mechanism Design 
 - Game Theory
-- Taxation Theory
+- Public Economics
 - Information Economics
 
 education:
   courses:
   - course: MSc in Econometrics and Mathematical Economics
     institution: London School of Economics and Political Science
-    year: 2019
+    year: 2020
   - course: BSc in Mathematics
     institution: National Taiwan University
-    year: 2016
+    year: 2019
   - course: BA in Finance
     institution: National Taiwan University
-    year: 2014
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
