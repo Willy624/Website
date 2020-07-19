@@ -28,14 +28,13 @@ interests:
 
 education:
   courses:
-  - course: MSc in Econometrics and Mathematical Economics
+  - course: MSc in Econometrics and Mathematical Economics, with Distinction
     institution: London School of Economics and Political Science
     year: 2020
-    description: With Distinction
-  - course: BSc in Mathematics and BA in Finance
+    
+  - course: BSc in Mathematics and BA in Finance, with GPA 4.03/4.3
     institution: National Taiwan University
     year: 2019
-    description: GPA 4.03/4.30
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -68,4 +67,4 @@ email: "b03703021@ntu.edu.tw"
 # - Visitors
 ---
 
-I am a Research Professional of Economics at the the University of Chicago Booth School of Business. I am currently working on ?? under professor Eric Budish's project. 
+I am a Research Professional of Economics at the the University of Chicago Booth School of Business. I am currently working under professor Eric Budish's project. 
