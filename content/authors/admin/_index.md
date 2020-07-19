@@ -31,12 +31,11 @@ education:
   - course: MSc in Econometrics and Mathematical Economics
     institution: London School of Economics and Political Science
     year: 2020
-  - course: BSc in Mathematics
+    description: With Distinction
+  - course: BSc in Mathematics and BA in Finance
     institution: National Taiwan University
     year: 2019
-  - course: BA in Finance
-    institution: National Taiwan University
-    year: 2019
+    description: GPA 4.03/4.30
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
