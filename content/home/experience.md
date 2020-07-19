@@ -37,9 +37,7 @@ date_format = "Jan 2006"
   location = "Taipei, Taiwan"
   date_start = "2017-09-01"
   date_end = "2019-01-31"
-  """
-  Topic: CDS market’s relation to product-line decisions and optimal advertising
-  """
+  Topic= """CDS market’s relation to product-line decisions and optimal advertising"""
   Responsibilities include:
   
   * Solving game theoretical model related to finance and marketing.
