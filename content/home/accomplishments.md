@@ -36,7 +36,22 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-08-01"
   date_end = "2017-08-31"
-  description = "Completed a project using FFT algorithm to solve a Black-Scholes jump diffusion model."
+  description = """
+  Topic: **Option Pricing by FFT Stepping Method**
+  Derive Partial Integro-Differential Equation from jump-diffusion model and implement Fourier
+  Stepping Method, a numerical algorithm.
+  """
+  
+[[item]]
+  organization = "National Taiwan University"
+  title = "Introduction to Computational Mathematics"
+  date_start = "2018-09-01"
+  date_end = "2019-01-31"
+  description = """
+  Topic: **Classification Methods Comparison - Educational Data Mining**
+  Using Python package to implement Decision Tree, Random Tree, and Bayesian Network Classification
+  to analyze student performance with existing data, and compare their accuracies.
+  """
 
 [[item]]
   organization = "National Taiwan University"
