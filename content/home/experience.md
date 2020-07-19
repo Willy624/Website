@@ -27,21 +27,35 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
   """
 
 [[experience]]
   title = "Research Assistant"
   company = "National Taiwan University"
-  company_url = ""
+  company_url = "http://www.management.ntu.edu.tw/Fin"
   location = "Taipei, Taiwan"
   date_start = "2017-09-01"
   date_end = "2019-01-31"
-  Topic= """CDS market’s relation to product-line decisions and optimal advertising"""
   description = """
+  Topic: **CDS market’s relation to product-line decisions and optimal advertising**
   Responsibilities include:
   
-  * Solving game theoretical model related to finance and marketing.
-  * Writing literature reviews and reporting relevant research.
+  * Solving game theoretical model related to finance and marketing
+  * Writing literature reviews and reporting relevant research
+  """
+  
+[[experience]]
+  title = "Teaching Assistant"
+  company = "National Taiwan University"
+  company_url = "http://www.management.ntu.edu.tw/Fin"
+  location = "Taipei, Taiwan"
+  date_start = "2017-09-01"
+  date_end = "2018-01-31"
+  description = """
+  Course: **Investments**
+  Responsibilities include:
+  
+  * Gave lectures to 100+ students
+  * Answered academic problems and graded student’s in-class projects
   """
 +++
