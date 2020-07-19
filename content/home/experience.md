@@ -38,9 +38,10 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = "2019-01-31"
   Topic= """CDS market’s relation to product-line decisions and optimal advertising"""
+  description = """
   Responsibilities include:
   
   * Solving game theoretical model related to finance and marketing.
   * Writing literature reviews and reporting relevant research.
-
+  """
 +++
