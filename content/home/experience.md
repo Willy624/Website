@@ -53,6 +53,7 @@ date_format = "Jan 2006"
   date_end = "2018-01-31"
   description = """
   Course: **Investments**
+  
   Responsibilities include:
   
   * Gave lectures to 100+ students
