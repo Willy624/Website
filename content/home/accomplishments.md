@@ -38,6 +38,7 @@ date_format = "Jan 2006"
   date_end = "2017-08-31"
   description = """
   Topic: **Option Pricing by FFT Stepping Method**
+  
   Derive Partial Integro-Differential Equation from jump-diffusion model and implement Fourier
   Stepping Method, a numerical algorithm.
   """
@@ -49,6 +50,7 @@ date_format = "Jan 2006"
   date_end = "2019-01-31"
   description = """
   Topic: **Classification Methods Comparison - Educational Data Mining**
+  
   Using Python package to implement Decision Tree, Random Tree, and Bayesian Network Classification
   to analyze student performance with existing data, and compare their accuracies.
   """
