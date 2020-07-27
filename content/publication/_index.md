@@ -1,5 +1,6 @@
 ---
 title: Publications
+draft: true
 
 # View.
 #   1 = List
@@ -12,6 +13,5 @@ view: 4
 header:
   caption: ""
   image: ""
-  
-draft: true
+
 ---
