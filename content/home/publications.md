@@ -9,6 +9,7 @@ weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
 subtitle = ""
+draft: true
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
