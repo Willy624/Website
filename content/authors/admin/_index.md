@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Professional of Economics
+role: Research Professional of Economics and Finance
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Chicago
+- name: The University of Chicago Booth School of Business
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -67,4 +67,4 @@ email: "b03703021@ntu.edu.tw"
 # - Visitors
 ---
 
-I am a Research Professional of Economics at the the University of Chicago Booth School of Business. I am currently working under professor Eric Budish's project. 
+I am a Research Professional of Economics at the the University of Chicago Booth School of Business. I am currently working under professor Eric Budish's and Anthony Lee Zhang's projects. 
