@@ -18,13 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Microeconomic Theory, Financial Economics and Public Economics.
+bio: I specialize in Microeconomic Theory, Financial Economics, Econometrics and Public Economics. Interested in combining different techniques to deal with any people-related problems.
 
 interests:
 - Mechanism Design 
 - Game Theory
 - Public Economics
-- Information Economics
+- Statistics and Econometric Methods
 
 education:
   courses:
@@ -67,4 +67,4 @@ email: "b03703021@ntu.edu.tw"
 # - Visitors
 ---
 
-I am a Research Professional of Economics at the the University of Chicago Booth School of Business. I am currently working under professor Eric Budish's and Anthony Lee Zhang's projects. 
+I am a Research Professional of Economics at the the University of Chicago Booth School of Business working for Eric Budish and Anthony Lee Zhang. 
